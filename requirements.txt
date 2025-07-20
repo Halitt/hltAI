@@ -1,0 +1,7 @@
+feedparser
+openai
+tweepy 
+python-dotenv
+crawl4ai
+iointel
+tinydb
