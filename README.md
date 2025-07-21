@@ -10,3 +10,6 @@ A Python-based bot that fetches the latest crypto news from RSS feeds, analyzes 
 - ⏱️ Queues and schedules tweets to comply with Twitter API limits
 
 AI agent powered by IO Intelligence
+
+⏰ How to Schedule the Bot
+You can automate the bot to run at regular intervals using system schedulers by runninng scrape.py and tweet.py
